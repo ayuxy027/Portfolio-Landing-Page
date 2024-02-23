@@ -62,7 +62,7 @@
     width: 100%;
     background-image: url("https://assets-global.website-files.com/64589fb989b2b33c593db89d/645f70593b53563168a125ac_about-p-1080.webp");
     background-size: cover;
-    background-position: center top; /* Added this line */
+    background-position: center 8%;
   }
 
   #about {
